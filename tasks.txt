@@ -1,0 +1,12 @@
+Wed (25-08):
+ClientScope: Complete tracking CR
+StreamMii : implement Home screen UI
+
+thu (26-08): 
+StreamMii : implement Comment, likes and dislikes screen UI
+
+fri (27-08) : 
+StreamMii : implement report block screens UI
+
+mon (30-08)
+StreamMii : implement new post modal , create post and search post screens UI 

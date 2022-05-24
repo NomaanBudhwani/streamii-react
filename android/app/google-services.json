@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "176759553575",
+    "project_id": "streammii-48521",
+    "storage_bucket": "streammii-48521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176759553575:android:604af3a42f8073cfd6d802",
+        "android_client_info": {
+          "package_name": "com.streammii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176759553575-32bsfg82kcdoivtkm78p7li4njo1fo90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streammii",
+            "certificate_hash": "83a9345fc81c181935ce4819f4f89628567cc40b"
+          }
+        },
+        {
+          "client_id": "176759553575-khldqi1ck00uandv0if610n8075ac1u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streammii",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "176759553575-dcmb12dha4jpf215hnpjbsqs8l42lqog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTChw1uWm3OXO0ytT1aCqLkpttE84DWY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176759553575-dcmb12dha4jpf215hnpjbsqs8l42lqog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176759553575-96vv7euq4n86kli2oort9mb11saa4ni3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.streammii"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
